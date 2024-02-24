@@ -1,5 +1,9 @@
 # How Social Apps Relate to Wake-Up Times in College Life, A Federated Learning Study
 
+## Authors
+- [Lufeiya Liu](https://github.com/feiyaLL)
+- [Anran Yao](https://github.com/anranyao)
+
 ## Description
 Smartphones are an essential aspect of college students' daily lives, sparking concerns about their effects on mental and physical health. This study examines the impact of social application screen time on college students' sleep patterns, specifically focusing on wake-up times. Utilizing federated learning and linear regression methods to analyze phone usage data while maintaining data privacy, we investigated the relationship between social application usage and wake-up times. The data, collected from two University of Michigan students, indicated a significant positive correlation between the amount of time spent on social apps and later wake-up times. This was after considering variables like daily phone pickups and whether it was a weekday or weekend. Our findings demonstrate the effectiveness of federated learning in achieving results that align with those from traditional linear regression.
 
@@ -17,7 +21,6 @@ Data were collected from two students at the University of Michigan who were tak
 ## Federated Learning
 <img src="Distributed%20Computing.png" alt="The distribution computing platform design to implement our federated learning machinery" title="Distribution computing platform design">
 
-## Credits
+## Acknowledgment
 In this project, Lufeiya Liu and Anran Yao contributed equally. Both were responsible for data cleaning, federated learning, confirmation analysis, model diagnosis, and drafting the report. 
-- [Lufeiya Liu](https://github.com/feiyaLL)
-- [Anran Yao](https://github.com/anranyao)
+
