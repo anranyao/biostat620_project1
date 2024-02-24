@@ -10,7 +10,7 @@ Smartphones are an essential aspect of college students' daily lives, sparking c
 ## Files
 [R code](codes_v1.R)
 
-[Result outputs](codes_v1.html)
+[Result outputs](codes_v1.pdf)
 ## Data collection and Description Plots
 Data were collected from two students at the University of Michigan who were taking the Biostatistics 620 course during the Winter 2024 semester. Each student recorded data every day from January 1, 2024, to February 13, 2024. The data from each student (n1=44, n2=44) were combined into one dataset (n=88) for further analysis (confirmation analysis). Since there was no missing data in this dataset, no records were removed from the analysis.
 
